@@ -1,0 +1,50 @@
+.flex-row {
+	display: flex;
+	flex-direction: row;
+}
+
+.flex-column {
+	display: flex;
+	flex-direction: column;
+}
+
+.flex-wrap {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.flex-x-around {
+	display: flex;
+	justify-content: space-around;
+}
+
+.flex-between {
+	display: flex;
+	justify-content: space-between;
+}
+
+.flex-x-center {
+	display: flex;
+	justify-content: center;
+}
+
+.flex-y-center {
+	display: flex;
+	align-items: center;
+}
+
+.flex-center {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+	
+.flex{
+	display: flex;
+}
+
+.overflow-ellipsis {
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
